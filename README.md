@@ -1,2 +1,2 @@
 # Fitness_Gym
-# Partners
+# Partners by spstk
